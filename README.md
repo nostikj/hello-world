@@ -3,4 +3,5 @@ Testing repo
 
 This is a long paragraph of comments.
 
-Some more comments.
+Some more long comments.
+And new comments.
